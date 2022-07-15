@@ -1,5 +1,5 @@
 class AssetPath {
-  static const String prePath = 'images';
+  static const String prePath = 'assets/images';
   static const String iconAdd = '$prePath/add.png';
   static const String iconBack = '$prePath/back.png';
   static const String iconCancel = '$prePath/cancel.png';
